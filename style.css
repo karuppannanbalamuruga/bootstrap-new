@@ -1,0 +1,9 @@
+.input-group input:focus{
+    outline: 0;
+}
+.input-group.success input{
+    border-color: green;
+}
+.input-group.error input{
+    border-color: red;
+}
